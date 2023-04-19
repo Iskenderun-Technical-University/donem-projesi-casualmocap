@@ -2,3 +2,4 @@
 # Proje Tasarım Belgesi
 
 [Proje Tasarım Belgesi](https://github.com/Iskenderun-Technical-University/OYUN-PROGRAMLAMA-202523034/blob/main/Tasar%C4%B1m%20belgesi.pdf)
+![](https://github.com/Iskenderun-Technical-University/OYUN-PROGRAMLAMA-202523034/blob/main/Tasar%C4%B1m%20belgesi.pdf)
